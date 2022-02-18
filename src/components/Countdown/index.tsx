@@ -1,5 +1,3 @@
-import { useState } from 'react'
-
 import playArrow from '../../assets/images/play_arrow.svg'
 import cancelIcon from '../../assets/images/cancel.svg'
 import checkCircle from '../../assets/images/check_circle.svg'
