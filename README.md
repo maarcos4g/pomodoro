@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img alt="pomodoro" src=".github/cover.png" width="100%">
+  <img alt="pomodoro" src="./.github/cover.JPG" width="100%">
 </p>
 
 ## ✨ Technologies
